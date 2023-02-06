@@ -14,7 +14,7 @@ class _ThirdScreenState extends State<ThirdScreen> {
         centerTitle: true,
         backgroundColor: Colors.pink,
         title: const Text(
-          'third screen ... Lets check if it works',
+          'third screen ... ',
           style: TextStyle(
               fontSize: 30, color: Colors.black, fontWeight: FontWeight.bold),
         ),
